@@ -1,0 +1,7 @@
+17/12/2021 09:43:16 AM: DEBUG: <module> Line:20 debug message
+17/12/2021 09:43:16 AM: INFO: <module> Line:21 info message
+17/12/2021 09:43:16 AM: WARNING: <module> Line:22 warning message
+17/12/2021 09:43:16 AM: ERROR: <module> Line:23 error message
+17/12/2021 09:43:16 AM: CRITICAL: <module> Line:24 critical message
+17/12/2021 09:43:16 AM: INFO: <module> Line:27 test 10
+17/12/2021 09:43:16 AM: INFO: some_function Line:6 Function was called
